@@ -1,0 +1,14 @@
+C:\Users\shaba\source\repos\GuessNumberApp\GuessNumberApp\bin\Release\net8.0\GuessNumberApp.exe
+C:\Users\shaba\source\repos\GuessNumberApp\GuessNumberApp\bin\Release\net8.0\GuessNumberApp.deps.json
+C:\Users\shaba\source\repos\GuessNumberApp\GuessNumberApp\bin\Release\net8.0\GuessNumberApp.runtimeconfig.json
+C:\Users\shaba\source\repos\GuessNumberApp\GuessNumberApp\bin\Release\net8.0\GuessNumberApp.dll
+C:\Users\shaba\source\repos\GuessNumberApp\GuessNumberApp\bin\Release\net8.0\GuessNumberApp.pdb
+C:\Users\shaba\source\repos\GuessNumberApp\GuessNumberApp\obj\Release\net8.0\GuessNumberApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaba\source\repos\GuessNumberApp\GuessNumberApp\obj\Release\net8.0\GuessNumberApp.AssemblyInfoInputs.cache
+C:\Users\shaba\source\repos\GuessNumberApp\GuessNumberApp\obj\Release\net8.0\GuessNumberApp.AssemblyInfo.cs
+C:\Users\shaba\source\repos\GuessNumberApp\GuessNumberApp\obj\Release\net8.0\GuessNumberApp.csproj.CoreCompileInputs.cache
+C:\Users\shaba\source\repos\GuessNumberApp\GuessNumberApp\obj\Release\net8.0\GuessNumberApp.dll
+C:\Users\shaba\source\repos\GuessNumberApp\GuessNumberApp\obj\Release\net8.0\refint\GuessNumberApp.dll
+C:\Users\shaba\source\repos\GuessNumberApp\GuessNumberApp\obj\Release\net8.0\GuessNumberApp.pdb
+C:\Users\shaba\source\repos\GuessNumberApp\GuessNumberApp\obj\Release\net8.0\GuessNumberApp.genruntimeconfig.cache
+C:\Users\shaba\source\repos\GuessNumberApp\GuessNumberApp\obj\Release\net8.0\ref\GuessNumberApp.dll

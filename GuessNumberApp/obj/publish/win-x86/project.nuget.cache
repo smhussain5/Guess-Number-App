@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qx94n6YjAREsLFVD89t7cdEuzzV3kzGm5YUzWBXut1VJNrcqQWaxy0SEXkpMUP+k/YztYrv6qgYXK4HPGA7iWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shaba\\source\\repos\\GuessNumberApp\\GuessNumberApp\\GuessNumberApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shaba\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.0\\microsoft.netcore.app.runtime.win-x86.8.0.0.nupkg.sha512",
+    "C:\\Users\\shaba\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.0\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.0.nupkg.sha512",
+    "C:\\Users\\shaba\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.0\\microsoft.aspnetcore.app.runtime.win-x86.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
